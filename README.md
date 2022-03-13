@@ -11,7 +11,9 @@ and analyse their contribution towards low and high number of comments.
 
 
 To achieve the above, I carried out the following data analytics tasks:
-a) Task 1: Explored the impact of article properties
+
+
+Task 1: Explored the impact of article properties
 Explored the data and investigated what properties of the article correlate with the high 
 number of comments of the article on social media. 
 • Explored the dataset to understand and manage five channels from the five types of 
@@ -24,3 +26,11 @@ o Number of words in abstract
 o Number of words in content
 o Number of keywords in the meta data
 o Was the article published on the weekend
+
+Task 2: Used SAS Enterprise Miner for keyword analysis
+• Used the SAS Enterprise Miner to extract the keywords from the abstract in each article domain.
+• What are the highly used (top 5) topics in each category? 
+• Are there common topics which span across data channels and relate to a high 
+number of comments and a low number of comments? Used the whole dataset in the 
+SAS Enterprise Miner to identify the relationship. Provided explanations to 
+support my argument.
